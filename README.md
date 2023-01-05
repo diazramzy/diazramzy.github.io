@@ -10,4 +10,4 @@ C++       -  6 Month              -  Beginner
 Python    -  1 Years              -  Beginner
 
 example result:
-[https://diazramzy.github.io/Tugas_WGTIK/](https://diazramzy.github.io/Tugas_WGTIK/)
+[https://diazramzy.github.io/](https://diazramzy.github.io/)
